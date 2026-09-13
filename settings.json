@@ -2,7 +2,7 @@
   "name": "afk",
   "bot-account": {
     "username": "afk",
-    "password": "12345678"
+    "password": "12345678",
     "confirm-password": "12345678",
     "type": "offline"
   },
